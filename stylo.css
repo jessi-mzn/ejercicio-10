@@ -1,0 +1,14 @@
+.contenedor{ 
+    background-color: blueviolet;
+    border-color: black;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 5%;
+}   
+body{
+    background-color: rgb(226, 153, 226);
+}
+
+
+
